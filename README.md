@@ -1,2 +1,2 @@
 # ReactJSResponsiveRestaurantDesign
-Intern Task #6 in Teravision
+Intern Quest Task #6 in Teravision
