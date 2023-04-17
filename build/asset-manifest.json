@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/ReactJSResponsiveRestaurantDesign/static/css/main.cdb344bf.chunk.css",
+    "main.js": "/ReactJSResponsiveRestaurantDesign/static/js/main.48a3b664.chunk.js",
+    "main.js.map": "/ReactJSResponsiveRestaurantDesign/static/js/main.48a3b664.chunk.js.map",
+    "runtime-main.js": "/ReactJSResponsiveRestaurantDesign/static/js/runtime-main.8dedb1ff.js",
+    "runtime-main.js.map": "/ReactJSResponsiveRestaurantDesign/static/js/runtime-main.8dedb1ff.js.map",
+    "static/css/2.012e7066.chunk.css": "/ReactJSResponsiveRestaurantDesign/static/css/2.012e7066.chunk.css",
+    "static/js/2.280de9e5.chunk.js": "/ReactJSResponsiveRestaurantDesign/static/js/2.280de9e5.chunk.js",
+    "static/js/2.280de9e5.chunk.js.map": "/ReactJSResponsiveRestaurantDesign/static/js/2.280de9e5.chunk.js.map",
+    "index.html": "/ReactJSResponsiveRestaurantDesign/index.html",
+    "static/css/2.012e7066.chunk.css.map": "/ReactJSResponsiveRestaurantDesign/static/css/2.012e7066.chunk.css.map",
+    "static/css/main.cdb344bf.chunk.css.map": "/ReactJSResponsiveRestaurantDesign/static/css/main.cdb344bf.chunk.css.map",
+    "static/js/2.280de9e5.chunk.js.LICENSE.txt": "/ReactJSResponsiveRestaurantDesign/static/js/2.280de9e5.chunk.js.LICENSE.txt",
+    "static/media/app.4e53622c.png": "/ReactJSResponsiveRestaurantDesign/static/media/app.4e53622c.png",
+    "static/media/chicken3.bbc7b7ed.png": "/ReactJSResponsiveRestaurantDesign/static/media/chicken3.bbc7b7ed.png",
+    "static/media/chicken4.c4acdf41.png": "/ReactJSResponsiveRestaurantDesign/static/media/chicken4.c4acdf41.png",
+    "static/media/coffe2.19b724f3.png": "/ReactJSResponsiveRestaurantDesign/static/media/coffe2.19b724f3.png",
+    "static/media/dessert02.fb48b7db.png": "/ReactJSResponsiveRestaurantDesign/static/media/dessert02.fb48b7db.png",
+    "static/media/dessert2.6d376909.png": "/ReactJSResponsiveRestaurantDesign/static/media/dessert2.6d376909.png",
+    "static/media/dessert3.52214249.png": "/ReactJSResponsiveRestaurantDesign/static/media/dessert3.52214249.png",
+    "static/media/pasta.0710b65f.png": "/ReactJSResponsiveRestaurantDesign/static/media/pasta.0710b65f.png",
+    "static/media/pizza1.654c0ad4.png": "/ReactJSResponsiveRestaurantDesign/static/media/pizza1.654c0ad4.png",
+    "static/media/remixicon.css": "/ReactJSResponsiveRestaurantDesign/static/media/remixicon.f2616f59.ttf",
+    "static/media/review1.5700a298.png": "/ReactJSResponsiveRestaurantDesign/static/media/review1.5700a298.png",
+    "static/media/slick-theme.css": "/ReactJSResponsiveRestaurantDesign/static/media/slick.c94f7671.ttf",
+    "static/media/slider03.17713c88.png": "/ReactJSResponsiveRestaurantDesign/static/media/slider03.17713c88.png",
+    "static/media/slider1.d7139f2a.png": "/ReactJSResponsiveRestaurantDesign/static/media/slider1.d7139f2a.png",
+    "static/media/slider2.bd92752a.png": "/ReactJSResponsiveRestaurantDesign/static/media/slider2.bd92752a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dedb1ff.js",
+    "static/css/2.012e7066.chunk.css",
+    "static/js/2.280de9e5.chunk.js",
+    "static/css/main.cdb344bf.chunk.css",
+    "static/js/main.48a3b664.chunk.js"
+  ]
+}
